@@ -3,7 +3,7 @@ This repository includes following features of an application
 
 Coding test Assumptions :
 
--> Input word in EditText -> click Search icon to display the list of Dictionary results .
+-> Input word in EditText -> click Search icon to display the list of Dictionary results.
 -> Click Sort icon to sort dictionary list based on most ThumsUp and ThumsDown like Descending order.
 -> Input word -> change the orientation portrait/landscape -> previous list not cleared and displayed same results.
 -> After orientation change view will fit into screen and look/feel same in both portrait/landscape.
