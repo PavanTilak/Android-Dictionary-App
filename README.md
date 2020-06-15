@@ -13,6 +13,7 @@ Coding test Assumptions :
 Features included :
 -  Checking internet connection and displayed Error message if internet not available.
 - Complete code written in Kotlin.
+- Backend API calls implemented using Retrofit and RxJava callback methods.
 - Included input box for users to enter the term they wish to search.
 - Using RecyclerView , displayed list of resulting definitions with number of thumbs up and thumbs down votes. 
 - Given a Sort option to sort the list by either most thumbs up or down.
